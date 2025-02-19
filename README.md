@@ -1,2 +1,1 @@
-# MERN
-Ethnus Mern Assignment
+
